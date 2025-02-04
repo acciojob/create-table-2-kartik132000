@@ -20,8 +20,3 @@ function createTable() {
 	}
 }
 
-document.addEventListener("DOMContentLoaded", function() {
-    document.querySelector("input[type='button']").addEventListener("click", createTable);
-});
-
-}
